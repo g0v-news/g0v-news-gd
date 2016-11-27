@@ -8,30 +8,28 @@
 <g id="text">
 	<text transform="matrix(1 0 0 1 14.1731 31.3177)" font-family="'FantasqueSansMono-Regular'" font-size="22">Your Name</text>
 	<g>
-		<text transform="matrix(1 0 0 1 14.1732 100.3665)"><tspan x="0" y="0" font-family="'FantasqueSansMono-Regular'" font-size="12">you@g0v.tw</tspan><tspan x="0" y="16" font-family="'FantasqueSansMono-Regular'" font-size="12">@you</tspan><tspan x="0" y="31.2" font-family="'FantasqueSansMono-Regular'" font-size="12">+</tspan><tspan x="6.2" y="32" font-family="'FantasqueSansMono-Regular'" font-size="12">886</tspan><tspan x="24.6" y="31.2" font-family="'FantasqueSansMono-Regular'" font-size="12">-</tspan><tspan x="30.8" y="32" font-family="'FantasqueSansMono-Regular'" font-size="12">912345678</tspan></text>
+		<text transform="matrix(1 0 0 1 14.1732 101.3665)"><tspan x="0" y="0" font-family="'FantasqueSansMono-Regular'" font-size="11">you@g0v.tw</tspan><tspan x="0" y="15" font-family="'FantasqueSansMono-Regular'" font-size="11">@you</tspan><tspan x="0" y="29.2" font-family="'FantasqueSansMono-Regular'" font-size="11">+</tspan><tspan x="5.8" y="30" font-family="'FantasqueSansMono-Regular'" font-size="11">886</tspan><tspan x="23.2" y="29.2" font-family="'FantasqueSansMono-Regular'" font-size="11">-</tspan><tspan x="29" y="30" font-family="'FantasqueSansMono-Regular'" font-size="11">987654321</tspan></text>
 	</g>
 </g>
 <g id="facebook">
-	<text transform="matrix(1 0 0 1 44.7636 115.0833)" font-family="'FantasqueSansMono-Regular'" font-size="8">facebook</text>
-	<g>
-		<path fill="#010101" d="M77.3,116.7H44.8c-0.2,0-0.4-0.2-0.4-0.4s0.2-0.4,0.4-0.4h32.6c0.2,0,0.4,0.2,0.4,0.4
-			S77.5,116.7,77.3,116.7z"/>
-	</g>
+	<text transform="matrix(1 0 0 1 44.5969 115.0833)" fill="#231F20" font-family="'FantasqueSansMono-Regular'" font-size="8">facebook</text>
+
+		<line fill="none" stroke="#000000" stroke-width="0.75" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" x1="44.6" y1="116.3" x2="77.2" y2="116.3"/>
 </g>
 <g id="logo">
 	<g>
 		<g>
-			<path fill="#C42026" d="M220.3,135.3c-0.2,0-0.3,0-0.5-0.1c-0.5-0.3-0.6-0.9-0.4-1.3l3.5-6.1c0.3-0.5,0.9-0.6,1.3-0.4
-				c0.5,0.3,0.6,0.9,0.4,1.3l-3.5,6.1C220.9,135.1,220.6,135.3,220.3,135.3z"/>
+			<path fill="#C42026" d="M219.3,133.3c-0.2,0-0.3,0-0.5-0.1c-0.5-0.3-0.6-0.9-0.4-1.3l3.5-6.1c0.3-0.5,0.9-0.6,1.3-0.4
+				c0.5,0.3,0.6,0.9,0.4,1.3l-3.5,6.1C219.9,133.1,219.6,133.3,219.3,133.3z"/>
 		</g>
-		<path d="M231.5,100.5c7.9,0,14.3,6.4,14.3,14.3s-6.4,14.3-14.3,14.3c-7.9,0-14.3-6.4-14.3-14.3S223.6,100.5,231.5,100.5
-			 M231.5,98.6c-2.2,0-4.3,0.4-6.3,1.3c-1.9,0.8-3.7,2-5.2,3.5s-2.7,3.2-3.5,5.2c-0.8,2-1.3,4.1-1.3,6.3s0.4,4.3,1.3,6.3
-			c0.8,1.9,2,3.7,3.5,5.2c1.5,1.5,3.2,2.7,5.2,3.5c2,0.8,4.1,1.3,6.3,1.3c2.2,0,4.3-0.4,6.3-1.3c1.9-0.8,3.7-2,5.2-3.5
-			c1.5-1.5,2.7-3.2,3.5-5.2c0.8-2,1.3-4.1,1.3-6.3s-0.4-4.3-1.3-6.3c-0.8-1.9-2-3.7-3.5-5.2c-1.5-1.5-3.2-2.7-5.2-3.5
-			C235.8,99,233.7,98.6,231.5,98.6L231.5,98.6z"/>
+		<path d="M230.5,98.5c7.9,0,14.3,6.4,14.3,14.3s-6.4,14.3-14.3,14.3c-7.9,0-14.3-6.4-14.3-14.3S222.6,98.5,230.5,98.5 M230.5,96.6
+			c-2.2,0-4.3,0.4-6.3,1.3c-1.9,0.8-3.7,2-5.2,3.5s-2.7,3.2-3.5,5.2c-0.8,2-1.3,4.1-1.3,6.3s0.4,4.3,1.3,6.3c0.8,1.9,2,3.7,3.5,5.2
+			c1.5,1.5,3.2,2.7,5.2,3.5c2,0.8,4.1,1.3,6.3,1.3c2.2,0,4.3-0.4,6.3-1.3c1.9-0.8,3.7-2,5.2-3.5c1.5-1.5,2.7-3.2,3.5-5.2
+			c0.8-2,1.3-4.1,1.3-6.3s-0.4-4.3-1.3-6.3c-0.8-1.9-2-3.7-3.5-5.2c-1.5-1.5-3.2-2.7-5.2-3.5C234.8,97,232.7,96.6,230.5,96.6
+			L230.5,96.6z"/>
 		<g>
-			<path fill="#C42026" d="M238.2,104.3c-0.2,0-0.3,0-0.5-0.1c-0.5-0.3-0.6-0.9-0.4-1.3l4.6-7.9c0.3-0.5,0.9-0.6,1.3-0.4
-				c0.5,0.3,0.6,0.9,0.4,1.3l-4.6,7.9C238.8,104.1,238.5,104.3,238.2,104.3z"/>
+			<path fill="#C42026" d="M237.2,102.3c-0.2,0-0.3,0-0.5-0.1c-0.5-0.3-0.6-0.9-0.4-1.3l4.6-7.9c0.3-0.5,0.9-0.6,1.3-0.4
+				c0.5,0.3,0.6,0.9,0.4,1.3l-4.6,7.9C237.8,102.1,237.5,102.3,237.2,102.3z"/>
 		</g>
 	</g>
 </g>

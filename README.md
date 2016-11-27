@@ -3,8 +3,8 @@ g0v news graphic design.
 
 ## How-to
 ### `/logo`
-- Use black logo in a light background.
-- Use white logo in a dark background.
+- Use `-black` files before light background.
+- Use `-white` files before dark background.
 
 ### `/card`
 - Install fonts before making your own card with template.
